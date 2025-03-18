@@ -1,5 +1,7 @@
 # Proyecto 01 - Denoising Autoencoder y Variational Autoencoder
 
+Prueba el modelo aquí: [Autoencoders en Hugging Face](https://huggingface.co/spaces/Loother/Autoencoders)
+
 ## Autores
 - **Luther Williams Sandria**
 - **Juan Pablo Echeverría Villaseñor**
@@ -57,3 +59,5 @@ Se generaron nuevas imágenes basadas en la distribución aprendida, evaluando s
 
 ## Conclusión
 Este proyecto demostró la eficacia de los **Denoising Autoencoders** en la eliminación de ruido y la capacidad de los **Variational Autoencoders** para generar imágenes realistas a partir de un espacio latente aprendido. Estos modelos tienen aplicaciones en reducción de ruido, generación de imágenes sintéticas y compresión de datos en aprendizaje profundo.
+
+

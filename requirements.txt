@@ -1,0 +1,8 @@
+tensorflow
+gradio
+numpy
+pillow
+tensorflow-datasets
+requests
+opencv-python
+matplotlib
