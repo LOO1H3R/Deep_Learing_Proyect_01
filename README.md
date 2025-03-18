@@ -30,8 +30,8 @@ Un **Denoising Autoencoder** es una red neuronal diseñada para eliminar el ruid
 - **Codificador (Encoder):** Reduce la dimensión de la imagen y extrae características principales.
 - **Decodificador (Decoder):** Reconstruye la imagen a partir de la representación latente.
 
-![DAE Encoder](./images/dae_encoder.png)
-![DAE Decoder](./images/dae_decoder.png)
+![DAE Encoder](./images/vae_architecture_encoder.svg)
+![DAE Decoder](./images/vae_architecture_decoder.svg)
 
 ### Entrenamiento
 El modelo fue entrenado utilizando imágenes con ruido artificial, con el objetivo de minimizar la diferencia entre la imagen original y la reconstruida.
@@ -49,8 +49,8 @@ Un **Variational Autoencoder** introduce una distribución probabilística en la
 - **Espacio latente:** Representación probabilística de las imágenes.
 - **Decodificador:** Reconstruye imágenes a partir de muestras tomadas del espacio latente.
 
-![VAE Encoder](./images/vae_encoder.png)
-![VAE Decoder](./images/vae_decoder.png)
+![VAE Encoder](./images/denoising_architecture_encoder.svg)
+![VAE Decoder](./images/denoising_architecture_decoder.svg)
 
 ### Resultados
 Se generaron nuevas imágenes basadas en la distribución aprendida, evaluando su calidad y similitud con las imágenes originales.
