@@ -1,6 +1,6 @@
 # Proyecto 01 - Denoising Autoencoder y Variational Autoencoder
 
-Prueba el modelo aquí: [Autoencoders en Hugging Face](https://huggingface.co/spaces/Loother/Autoencoders)
+Prueba los modelos aquí: [Autoencoders en Hugging Face](https://huggingface.co/spaces/Loother/Autoencoders)
 
 ## Autores
 - **Luther Williams Sandria**
